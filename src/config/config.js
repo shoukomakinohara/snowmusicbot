@@ -8,8 +8,8 @@ module.exports = {
     youtubeApiKey: 'AIzaSyBplbDvOw3n9xi95J0hNBCTFz4-jJU-Q4A',
     mongoUri: 'mongodb+srv://shriyanshojha38:9NKGQcXs1cKhqNBV@snowbot.yba0b.mongodb.net',
     spotify: {
-        clientId: process.env.SPOTIFY_CLIENT_ID,
-        clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
+        clientId: '2a0c27d2aa61477fa6677ee2b544186b',
+        clientSecret: 'fb940514446c404280beefc887f59001',
     },
     cookies:{
         domain: ".youtube.com",
